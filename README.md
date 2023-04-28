@@ -1,4 +1,4 @@
-<img src="https://github.com/MaybeAnge/Lunes-Hosting/blob/main/assets/img/Screenshot%202023-04-27%20210007.png" alt="softky.eu" title="softky.eu">
+<img src="https://github.com/MaybeAnge/Images/blob/main/Lunes-Hosting.png" alt="Lunes Hosting" title="Lunes Hosting">
 
 # 🥇 Lunes-Hosting
 Discord bot host with guaranteed 99% uptime and all for free. https://lunes.host/
