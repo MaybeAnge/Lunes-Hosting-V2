@@ -213,6 +213,7 @@
   .btn-table button {
     background-color: rgb(16, 84, 211);
     color: white;
+    width: 15rem;
     border: none;
     padding: 10px 20px;
     font-size: 16px;
