@@ -225,6 +225,16 @@
     transition: all 0.2s ease-in-out;
   }
 
+  @media screen and (max-width: 768px) {
+    .desktop-text {
+      display: none;
+    }
+  
+    .mobile-text {
+      display: inline-block;
+    }
+  }
+
   .btn-table button:last-child {
     margin-right: 0;
   }
